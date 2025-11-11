@@ -5,15 +5,17 @@ It’s designed to run on a local or remote server, allowing mod management dire
 
 ---
 
-## 🚀 Features (Planned)
+## Roadmap
 
-- View installed mods
-- Download, update, or delete mods
-- Authentication for secure remote access
+- [ ] View and delete installed mods
+- [ ] Authentication for secure remote access
+- [ ] Upload mods to server from zip file
+- [ ] Download mods from The Forge
+- [ ] Update mods from The Forge
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Prerequisites
 
