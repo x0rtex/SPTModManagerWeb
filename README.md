@@ -10,8 +10,8 @@ It’s designed to run on a local or remote server, allowing mod management dire
 - [ ] View and delete installed mods
 - [ ] Authentication for secure remote access
 - [ ] Upload mods to server from zip file
-- [ ] Download mods from The Forge
-- [ ] Update mods from The Forge
+- [ ] Download mods from SPT Forge
+- [ ] Update mods from SPT Forge
 
 ---
 
