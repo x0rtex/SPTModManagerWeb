@@ -1,0 +1,16 @@
+[project]
+name = "SPTModManagerWeb"
+version = "0.1.0"
+description = "A web application for managing mods in SPT-AKI."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]>=0.121.1",
+    "python-dotenv>=1.2.1",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.0",
+    "ruff>=0.14.4",
+]
