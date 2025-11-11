@@ -12,7 +12,7 @@ on:
     paths-ignore:
       - "*.md"
 jobs:
-  test:
+  build:
     name: Build & Lint Project
     runs-on: ubuntu-latest
 
